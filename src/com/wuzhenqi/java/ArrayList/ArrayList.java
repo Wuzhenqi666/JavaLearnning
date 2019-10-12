@@ -6,7 +6,7 @@ package com.wuzhenqi.java.ArrayList;
  */
 public class ArrayList {
     int maxSize;
-    private ArrayNode arrayNode;
+    ArrayNode arrayNode;
 
     public ArrayList(int maxSize) {
         this.maxSize = maxSize;
@@ -19,16 +19,16 @@ public class ArrayList {
     public long getElem(int index){
         return arrayNode.data[index];
     }
-    public ArrayNode insertElem(int index,long data) throws Exception {
+    public ArrayNode insertElem(int index,int data) throws Exception {
         if (arrayNode.curLen == arrayNode.maxSize) {
             throw new Exception("顺序表已满");
         }else if(index>arrayNode.curLen||index<0){
             throw new Exception("位置不合理");
         }else{
-            long tmp1 = arrayNode.data[index];
+            int tmp1 = arrayNode.data[index];
             arrayNode.data[index] = data;
             for (int i = index+1; i <=arrayNode.curLen ; i++) {
-                long tmp2 = arrayNode.data[i];
+                int tmp2 = arrayNode.data[i];
                 arrayNode.data[i] = tmp1;
                 tmp1 = tmp2;
             }
@@ -48,13 +48,13 @@ public class ArrayList {
 
     public static void main(String[] args) throws Exception {
         ArrayList arrayList = new ArrayList(10);
-        arrayList.insertElem(0,1L);
-        arrayList.insertElem(1,2L);
-        arrayList.insertElem(2,3L);
-        arrayList.insertElem(3,4L);
-        arrayList.insertElem(4,5L);
+        arrayList.insertElem(0,1);
+        arrayList.insertElem(1,2);
+        arrayList.insertElem(2,3);
+        arrayList.insertElem(3,4);
+        arrayList.insertElem(4,5);
         arrayList.prinArrayList();
-        arrayList.insertElem(0,6L);
+        arrayList.insertElem(0,6);
         arrayList.prinArrayList();
         System.out.println(arrayList.getElem(3));
     }

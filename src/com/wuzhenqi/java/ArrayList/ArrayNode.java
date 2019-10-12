@@ -5,11 +5,11 @@ package com.wuzhenqi.java.ArrayList;
  * @date 2019/10/12 11:25
  */
 public class ArrayNode {
-    public long data[];
+    public int data[];
     public int curLen;
     public int maxSize;
     public ArrayNode(int maxSize){
-        data = new long[maxSize];
+        data = new int[maxSize];
         this.maxSize = maxSize;
         curLen = 0;
     }
