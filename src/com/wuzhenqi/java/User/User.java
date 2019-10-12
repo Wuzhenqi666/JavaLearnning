@@ -7,7 +7,14 @@ import java.util.Date;
  * @date 2019/10/10 21:02
  */
 public class User {
-    public String name;
+    private String name;
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "name='" + name + '\'' +
+                '}';
+    }
 
     public User(String name) {
         this.name = name;
