@@ -12,4 +12,6 @@ public class StackLinkNode {
         this.data = data;
         next = null;
     }
+
+
 }
