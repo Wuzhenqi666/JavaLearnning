@@ -36,8 +36,12 @@ public class CountRepeatChar {
        // char data[]= {'a','a','a','b','b','c','c','d'};
         char data[]= {'a'};
         CountRepeatChar countRepeatChar  =new CountRepeatChar();
+        CountRepeatChar countRepeatChar1 = new CountRepeatChar();
        // countRepeatChar.printCharArr(data);
         System.out.println(countRepeatChar.CountReapt(data));
+        System.out.println(countRepeatChar);
+        System.out.println(countRepeatChar1);
+
     }
 
 }
