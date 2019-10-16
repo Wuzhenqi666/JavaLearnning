@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c253cd7-1297-44ca-bf38-a07fc7094836" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/IteratorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumAn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/com/wuzhenqi/java/NumercalTest/CountRepeatChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/com/wuzhenqi/java/NumercalTest/CountRepeatChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuzhenqi/java/NumercalTest/CountRepeatChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuzhenqi/java/NumercalTest/CountRepeatChar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,59 +19,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/SingleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/ArrayList/ArrayNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/LinkList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/ListIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="62" column="22" lean-forward="true" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-              <folding>
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="365">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumAn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/IteratorApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
+            <state relative-caret-position="566">
               <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
             </state>
           </provider>
@@ -83,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="250">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="e#186#187#0" expanded="true" />
                 <element signature="e#218#219#0" expanded="true" />
@@ -96,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/Queue/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="25">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <element signature="e#756#757#0" expanded="true" />
                 <element signature="e#794#795#0" expanded="true" />
@@ -109,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/NumercalTest/CountRepeatChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            <state relative-caret-position="850">
+              <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -118,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/ArrayList/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
+            <state relative-caret-position="200">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
@@ -127,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LeetCode/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="250">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#166#167#0" expanded="true" />
@@ -177,6 +151,9 @@
         <option value="$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/LinkList.java" />
         <option value="$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/ListIterator.java" />
         <option value="$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/IteratorApp.java" />
+        <option value="$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumTriangle.java" />
+        <option value="$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumAn.java" />
+        <option value="$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumAnAll.java" />
       </list>
     </option>
   </component>
@@ -186,7 +163,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="88" />
     <option name="y" value="63" />
     <option name="width" value="1748" />
@@ -200,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,13 +201,6 @@
               <item name="JavaLearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="LinkList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -246,11 +217,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Queue" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -277,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IteratorApp">
+  <component name="RunManager" selected="Application.SumAn">
     <configuration name="CountRepeatChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wuzhenqi.java.NumercalTest.CountRepeatChar" />
       <module name="JavaLearning" />
@@ -317,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wuzhenqi.java.Queue.Queue" />
+    <configuration name="SumAn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuzhenqi.java.Recursion.SumAn" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wuzhenqi.java.Queue.*" />
+          <option name="PATTERN" value="com.wuzhenqi.java.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wuzhenqi.java.LeetCode.TargetArray" />
+    <configuration name="SumTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuzhenqi.java.Recursion.SumTriangle" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wuzhenqi.java.LeetCode.*" />
+          <option name="PATTERN" value="com.wuzhenqi.java.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumAn" />
+        <item itemvalue="Application.SumTriangle" />
         <item itemvalue="Application.IteratorApp" />
         <item itemvalue="Application.LinkList" />
         <item itemvalue="Application.CountRepeatChar" />
-        <item itemvalue="Application.Queue" />
-        <item itemvalue="Application.TargetArray" />
       </list>
     </recent_temporary>
   </component>
@@ -368,17 +345,18 @@
       <workItem from="1570932188108" duration="11661000" />
       <workItem from="1571025969120" duration="20956000" />
       <workItem from="1571108024460" duration="11080000" />
+      <workItem from="1571189133313" duration="4352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94249000" />
+    <option name="totallyTimeSpent" value="98601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="88" y="63" width="1748" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17535545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1771327" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -387,8 +365,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28764045" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.16179775" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21011236" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28764045" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -396,7 +374,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32921347" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.033707865" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.20449439" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -507,32 +485,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LeetCode/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/SingleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/Queue/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/NumercalTest/CountRepeatChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="1175">
+          <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -543,17 +499,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/ArrayList/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/LinkList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="250">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="e#186#187#0" expanded="true" />
             <element signature="e#218#219#0" expanded="true" />
@@ -561,45 +517,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/LinkList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/ArrayList/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/SingleLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LeetCode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="62" column="22" lean-forward="true" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        <state relative-caret-position="250">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/IteratorApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
+        <state relative-caret-position="566">
           <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/Queue/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/NumercalTest/CountRepeatChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/LinkList/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumAnAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuzhenqi/java/Recursion/SumAn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
         </state>
       </provider>
     </entry>
